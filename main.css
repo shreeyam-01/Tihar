@@ -1,0 +1,321 @@
+
+
+.main{
+    background: url('animation.gif');
+    background-repeat: no-repeat;
+    width: 103%; /* HERE */
+    height: 94vh;
+    background-size: cover;
+    text-align: center;
+    top: 50%;
+}
+
+.content{
+    background: linear-gradient( to top,rgba(0,0,0,0.2)50%,rgba(0,0,0,0.2)50%),url('animation2.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    position: relative;
+    top: 50%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 60px;
+}
+
+.extra{
+    background: linear-gradient( to top,rgba(0,0,0,0.3)50%,rgba(0,0,0,0.3)50%),url('animation3.gif');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    height: 70vh;
+    width: 100%; /* HERE */
+    top: 7;
+    left: 7;
+}
+
+.extra2{
+    background: linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1)50%), url('animation4.gif');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    height: 70vh;
+    width: 100%; /* HERE */
+    top: 7;
+    left:1000;
+}
+
+.extra3{
+    background: linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1)50%),url('img1.jpg');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    height: 50vh;
+    width: 100%; /* HERE */
+    top: 7;
+    left: 500;
+}
+
+.extra4{
+    background: linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1    )50%),url('img1.jpg');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    height: 50vh;
+    width: 100%; /* HERE */
+    top: 7;
+    left: 250;
+}
+
+.extra5{
+    background: linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1    )50%),url('img1.jpg');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    height: 50vh;
+    width: 100%; /* HERE */
+    top: 7;
+    left: 750;
+}
+
+.extra6{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 57px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra7{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 130px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra8{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 250px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra9{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 370px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra10{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 490px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra11{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 610px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra12{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 730px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra13{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 850px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra14{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 970px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra15{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 1090px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+
+.extra22{
+    background: url('dioh.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60px;
+    width: 120px;
+    top: 540;
+    left: 1115px;
+    margin: 0 auto;
+    background-size: 120% auto;
+}
+ /* VERTICAL LEFT */
+.extra16{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 7px;
+    left: 10px;
+    background-size: 100% auto;
+}
+
+.extra17{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 220px;
+    left: 10px;
+    background-size: 100% auto;
+}
+
+.extra18{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 355px;
+    left: 10px;
+    background-size: 100% auto;
+}
+
+/* VERTICAL RIGHT */
+
+.extra19{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 7px;
+    left: 1250;
+    background-size: 100% auto;
+}
+
+.extra20{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 220px;
+    left: 1250;
+    background-size: 100% auto;
+}
+
+.extra21{
+    background: url('diov.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 60%;
+    width:30px;
+    top: 355px;
+    left: 1250;
+    background-size: 100% auto;
+}
+
+/* Goddess-Laxmi picture */
+
+.extra23{
+    background: url('goddesslaxmi.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 220px;
+    width: 250px;
+    top:148px;
+    left: 510px;
+    background-size: 100% auto;
+}
+
+/* Dio right */
+.extra24{
+    background: linear-gradient(to top, rgba(0,0,0,0.2)50%, rgba(0,0,0,0.2)50%), url('dio.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 15%;
+    width: 100px;
+    top: 170px;
+    left: 780px;
+    background-size: 83% auto;
+}
+
+/* Dio left */
+
+.extra25{
+    background: linear-gradient(to top,rgba(0,0,0,0.2)50%,rgba(0,0,0,0.2)50%),url('dio.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 15%;
+    width: 100px;
+    top: 170px;
+    left: 400px;
+    background-size: 83% auto;
+}
+
+/* Dog */
+
+
+
